@@ -1,0 +1,1 @@
+This Python-based project is aimed at analyzing and visualizing OBD-II log files. It will process CSV files containing vehicle diagnostic data, including parameters like RPM, speed, temperature, and DTC codes. The project generates basic visualizations to provide insights into the vehicle's performance.
